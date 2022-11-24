@@ -1,0 +1,8 @@
+ .column{
+    margin: 5px;
+    display: flex;
+    float: left; 
+    flex-direction: row;
+
+   
+}

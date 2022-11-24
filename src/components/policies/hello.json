@@ -1,0 +1,22 @@
+[
+    {
+        "id" : 1,
+        "name" : "home policy",
+        "ageLimit" : 12,
+        "insuredTotalAmount" : 200000,
+        "minAmount" : 10000,
+        "installmentAmount": 1000,
+        "coverageLimit": 120,
+        "tenureYear":5
+    },
+    {
+        "id" : 2,
+        "name" : "bike policy",
+        "ageLimit" : 12,
+        "insuredTotalAmount" : 200000,
+        "minAmount" : 10000,
+        "installmentAmount": 1000,
+        "coverageLimit": 120,
+        "tenureYear":5 
+    }
+]
